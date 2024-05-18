@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/csv_parse" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/day_1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/learn-rust-crashcourse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-rust" vcs="Git" />
   </component>
 </project>
